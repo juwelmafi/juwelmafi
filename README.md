@@ -1,12 +1,79 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/qA1fN7Y.png" alt="Banner" width="100%" />
+</p>
 
-- <img src = "https://i.ibb.co.com/35Mq0hQY/Game-Developer-Resume-Website-in-Black-and-White-Simple-and-Minimal-Style.png">
+<h1 align="center">👋 Hi, I'm MD JUWEL HOSSAIN</h1>
+<h3 align="center">MERN Stack Developer | Passionate about building modern frontend experiences</h3>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Litte bit more about me...  
+
+```javascript
+const juwel = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Vite", "Firebase", "Node.js", "Express.js", "MongoDB"],
+  architecture: ["REST APIs", "component-based design"],
+  techCommunities: {
+    learner: "Programming Hero",
+    contentCreator: "YouTube (Self-Development)"
+  },
+  challenge: "I’m taking a challenge to learn advance next.js, redux and building real-world full-stack projects",
+  habits: ["explore", "learn", "build consistently"],
+  goals: ["contribute to the technological world"]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+📫 **Reach me at:** [juwelhossain16457@gmail.com](mailto:juwelhossain16457@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 
 
 
 
+### 📊 GitHub Stats
 
-<!---
-juwelmafi/juwelmafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juwelhossain&show_icons=true&theme=react" alt="Juwel's GitHub stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwelhossain&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<!-- Update with your actual links when ready -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juwelhossain16457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+> Add your top 3 project repos and live links here later. Example format:
+
+- 🎯 **Career Code** - Job Portal App built with React, Firebase Auth & Tailwind  
+  🔗 [Live](#) | [GitHub](#)
+
+- 📚 **Talkademic** - Online Tutor Booking Platform  
+  🔗 [Live](#) | [GitHub](#)
+
+---
+
+🛠️ *This profile is always evolving as I grow as a developer. Thanks for visiting!*
