@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm MD JUWEL HOSSAIN</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E0A5A&width=435&lines=Full-Stack%20Web%20Developer;6+%20Months%20Of%20Coding%20Experience;Always%20Learning%20Mindset" alt="Fontend Developer" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack%20Web%20Developer;6+%20Months%20Of%20Coding%20Experience;Always%20Learning%20Mindset" alt="Fontend Developer" /></a>
 </p>
 
 ---
