@@ -1,10 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qA1fN7Y.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/9kqPMJQn/Blue-and-White-Illustrated-Welcome-Banner-1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm MD JUWEL HOSSAIN</h1>
-<h3 align="center">MERN Stack Developer | Passionate about building modern frontend experiences</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E0A5A&width=435&lines=Full-Stack%20Web%20Developer;6+%20Months%20Of%20Coding%20Experience;Always%20Learning%20Mindset" alt="Fontend Developer" /></a>
+</p>
 
 ---
 
@@ -37,7 +39,9 @@ const juwel = {
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" alt="Tech Stack Icons" />
+</p>
 
 
 
