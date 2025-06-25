@@ -38,6 +38,8 @@ const juwel = {
 
 ---
 
+### 🛠️ Technologies I Work With...
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
@@ -48,15 +50,21 @@ const juwel = {
 
 
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juwelhossain&show_icons=true&theme=react" alt="Juwel's GitHub stats" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwelhossain&layout=compact&theme=react" alt="Top Languages" />
-</p>
+### 📌 Featured Projects
+
+> Add your top 3 project repos and live links here later. Example format:
+
+- 🎯 **Career Code** - Job Portal App built with React, Firebase Auth & Tailwind  
+  🔗 [Live](#) | [GitHub](#)
+
+- 📚 **Talkademic** - Online Tutor Booking Platform  
+  🔗 [Live](#) | [GitHub](#)
+
+
+
 
 ---
 
@@ -73,18 +81,24 @@ const juwel = {
   <a href="mailto:juwelhossain16457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-### 📌 Featured Projects
-
-> Add your top 3 project repos and live links here later. Example format:
-
-- 🎯 **Career Code** - Job Portal App built with React, Firebase Auth & Tailwind  
-  🔗 [Live](#) | [GitHub](#)
-
-- 📚 **Talkademic** - Online Tutor Booking Platform  
-  🔗 [Live](#) | [GitHub](#)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juwelhossain&show_icons=true&theme=react" alt="Juwel's GitHub stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwelhossain&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+
+
+
+
+
 
 🛠️ *This profile is always evolving as I grow as a developer. Thanks for visiting!*
