@@ -67,9 +67,9 @@ const juwel = {
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/juwelmafi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.youtube.com/@juwelmafi"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/juwelmafi/"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/juwelmafi/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://www.linkedin.com/in/juwelmafi/"><img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white"></a>                                                                                                                                                                  
+    <a href="https://www.facebook.com/juwelmafi"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/juwelmafi/#"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://x.com/juwelmafi"><img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"></a>                                                                                                                                                                  
   <a href="mailto:juwelhossain16457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
