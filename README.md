@@ -57,7 +57,7 @@ const juwel = {
 
 > Here 3 projects that I have done recently:
 
-- 🎯 **Freeleza** - Marketplace for freelancers
+- 🎯 **Freeleza** - Marketplace for freelancers 
   🔗 [Live](https://fleeleza.web.app/) | [GitHub](https://github.com/juwelmafi/freeleza)
 
 - 📚 **Talkademic** - Online Tutor Booking Platform  
