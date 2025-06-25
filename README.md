@@ -55,15 +55,13 @@ const juwel = {
 
 ### 📌 My Higlighted Projects
 
-> Here 3 projects that I have done recently:
-
-- 🎯 **Freeleza** - Marketplace for freelancers 
-  🔗 [Live](https://fleeleza.web.app/) | [GitHub](https://github.com/juwelmafi/freeleza)
+> Here projects that I have done recently:
 
 - 📚 **Talkademic** - Online Tutor Booking Platform  
   🔗 [Live](https://talkademic.web.app/) | [GitHub](https://github.com/juwelmafi/talkademic)
 
-
+- 📚 **Freeleza** - Marketplace for freelancers  
+  🔗 [Live](https://fleeleza.web.app/) | [GitHub](https://github.com/juwelmafi/freeleza)
 
 
 ---
