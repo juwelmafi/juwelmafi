@@ -57,8 +57,8 @@ const juwel = {
 
 > Here 3 projects that I have done recently:
 
-- 🎯 **Career Code** - Job Portal App built with React, Firebase Auth & Tailwind  
-  🔗 [Live](#) | [GitHub](#)
+- 🎯 **Freeleza** - Marketplace for freelancers 
+  🔗 [Live](https://fleeleza.web.app/) | [GitHub](https://github.com/juwelmafi/freeleza)
 
 - 📚 **Talkademic** - Online Tutor Booking Platform  
   🔗 [Live](#) | [GitHub](#)
