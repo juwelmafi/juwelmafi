@@ -53,9 +53,9 @@ const juwel = {
 ---
 
 
-### 📌 Featured Projects
+### 📌 My Higlighted Projects
 
-> Add your top 3 project repos and live links here later. Example format:
+> Here 3 projects that I have done recently:
 
 - 🎯 **Career Code** - Job Portal App built with React, Firebase Auth & Tailwind  
   🔗 [Live](#) | [GitHub](#)
